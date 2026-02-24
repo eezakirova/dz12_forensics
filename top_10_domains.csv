@@ -1,0 +1,11 @@
+domain,count
+s4dc1.samba.windows8.private,28
+_ldap._tcp.dc._msdcs.S4DOM.PRIVATE,24
+ubuntu1,8
+_kerberos._tcp.SAMBA.WINDOWS8.PRIVATE,6
+_kerberos._udp.SAMBA.WINDOWS8.PRIVATE,4
+_kerberos-master._udp.SAMBA.WINDOWS8.PRIVATE,4
+ubuntu1.samba.windows8.private,4
+s4dc1.samba.windows8.private.samba.windows8.private,4
+_kerberos-master._tcp.SAMBA.WINDOWS8.PRIVATE,2
+_ldap._tcp.Default-First-Site-Name._sites.dc._msdcs.w2k3dom.kvm.private,2
